@@ -1,5 +1,5 @@
 body {
-    font-family: Arial, sans-serif;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
     line-height: 1.6;
     margin: 0;
     padding: 0;
@@ -27,6 +27,6 @@ section {
 footer {
     text-align: center;
     padding: 10px 0;
-    background: #35424a;
+    background: #72cf1a;
     color: #ffffff;
 }
